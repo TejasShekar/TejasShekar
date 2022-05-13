@@ -4,11 +4,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm <b>Tejas</b>, a passionate human learning frontend web development by transforming my ideas and building amazing projects !
 
-## Let's Connect 🔗
-
-[![](https://img.shields.io/twitter/follow/tejas_shekar?style=for-the-badge&logo=twitter)](https://twitter.com/tejas_shekar)
-<a href="https://in.linkedin.com/in/tejasbc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tejas's LinkedIn Profile"/></a>
-
 ## My skills 🚀
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +14,7 @@ I'm <b>Tejas</b>, a passionate human learning frontend web development by transf
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### I share my learnings on 
+### You can find my blogs on ✍️ 
 <a href="https://tejas01.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 
 ## Github Stats ⚡
@@ -37,4 +32,9 @@ I'm <b>Tejas</b>, a passionate human learning frontend web development by transf
 </a>
 
 <a href="https://github.com/tejasshekar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasshekar&layout=compact&theme=swift&hide_border=true" /></a>
+
+## Let's Connect 🔗
+
+[![](https://img.shields.io/twitter/follow/tejas_shekar?style=for-the-badge&logo=twitter)](https://twitter.com/tejas_shekar)
+<a href="https://in.linkedin.com/in/tejasbc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tejas's LinkedIn Profile"/></a>
 
