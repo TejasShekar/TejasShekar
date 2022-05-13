@@ -14,7 +14,7 @@ I'm <b>Tejas</b>, a passionate human learning frontend web development by transf
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 <h3>You can find my blogs on ✍️ </h3>
-<a href="https://tejas01.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://tejas01.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 
 <h3> Github Stats ⚡</h3>
 
@@ -29,6 +29,6 @@ I'm <b>Tejas</b>, a passionate human learning frontend web development by transf
 
 ## Let's Connect 🔗
 
-[![](https://img.shields.io/twitter/follow/tejas_shekar?style=for-the-badge&logo=twitter)](https://twitter.com/tejas_shekar)
-<a href="https://in.linkedin.com/in/tejasbc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tejas's LinkedIn Profile"/></a>
+<a href="https://twitter.com/tejas_shekar" target="_blank"><img src="https://img.shields.io/twitter/follow/tejas_shekar?style=for-the-badge&logo=twitter" alt="Tejas's Twitter Profile"/></a>
+<a href="https://in.linkedin.com/in/tejasbc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tejas's LinkedIn Profile"/></a>
 
