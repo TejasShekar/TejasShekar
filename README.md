@@ -1,24 +1,33 @@
-<h1>👋  Hey, I am Tejas Shekar !</h1>
-
 ![](https://komarev.com/ghpvc/?username=TejasShekar&color=brightgreen)
-[![](https://img.shields.io/github/followers/TejasShekar?label=GitHub%20Followers)](https://github.com/TejasShekar)
+<!-- [![](https://img.shields.io/github/followers/TejasShekar?label=GitHub%20Followers)](https://github.com/TejasShekar) -->
 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I'm <b>Tejas</b>, a passionate human learning frontend web development by transforming my ideas and building amazing projects !
+
+### I share my learnings on 
+<a href="https://tejas01.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 
 ## Github Stats ⚡
 
-<a href="http://www.github.com/tejasshekar"><img src="https://github-readme-stats.vercel.app/api?username=tejasshekar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tejasshekar's GitHub stats" /></a>
+<a href="http://www.github.com/tejasshekar">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejasshekar&show_icons=true&include_all_commits=true&theme=swift&hide_border=false&bg_color=FDFDFD&icon_color=fb8c01&title_color=fb8c01" alt="tejasshekar's GitHub stats" />
+</a>
 
-<a href="http://www.github.com/tejasshekar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasshekar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/tejasshekar">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejasshekar&date_format=M%20j%5B%2C%20Y%5D&background=FDFDFD" alt="tejasshekar's GitHub streak stats" />
+</a>
 
-<a href="http://www.github.com/tejasshekar"><img src="https://activity-graph.herokuapp.com/graph?username=tejasshekar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/tejasshekar">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tejasshekar&theme=minimal&bg_color=FDFDFD&hide_border=true&line=fb8c0180&point=fb8c01" alt="GitHub Commits Graph" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasShekar)
+<a href="https://github.com/tejasshekar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasshekar&layout=compact&theme=swift&hide_border=true" /></a>
 
 
 ## Let's Connect 🔗
 
 [![](https://img.shields.io/twitter/follow/tejas_shekar?style=for-the-badge&logo=twitter)](https://twitter.com/tejas_shekar)
-
+<a href="https://in.linkedin.com/in/tejasbc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tejas's LinkedIn Profile"/></a>
 
 ## My skills 🚀
 
@@ -29,3 +38,4 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
