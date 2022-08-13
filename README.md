@@ -23,8 +23,6 @@ A passionate dev, currently learning frontend web development by transforming my
 | [![](https://github-readme-stats.vercel.app/api?username=tejasshekar&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&bg_color=FEFEFF&icon_color=fb8c01&title_color=fb8c01)](http://www.github.com/tejasshekar) | [![](https://github-readme-streak-stats.herokuapp.com?user=tejasshekar&date_format=M%20j%5B%2C%20Y%5D&background=FEFEFF&hide_border=true)](http://www.github.com/tejasshekar) |
 | ------------- | ------------- |
 
-[![](https://activity-graph.herokuapp.com/graph?username=tejasshekar&theme=minimal&bg_color=FEFEFF&hide_border=true&line=fb8c0180&point=fb8c01)](http://www.github.com/tejasshekar)
-
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasshekar&layout=compact&theme=swift&hide_border=false&bg_color=FEFEFF&icon_color=fb8c01&title_color=fb8c01)](https://github.com/tejasshekar/github-readme-stats)
 
 ## Let's Connect 🔗
