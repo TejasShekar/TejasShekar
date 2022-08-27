@@ -2,8 +2,10 @@
 <!-- [![](https://img.shields.io/github/followers/TejasShekar?label=GitHub%20Followers)](https://github.com/TejasShekar)-->
 
 # Hey there, I'm Tejas 👋
-
-A passionate dev, currently learning frontend web development by transforming my ideas into building amazing projects !
+A passionate web developer from Bengaluru, India!
+- Currently jotting down ideas and transforming them to real world projects
+- Exploring and building with **ReactJS** and its ecosystem
+- Also travel on weekend to explore and contribute to keeping mother nature healthy 🌱
 
 ## My skills 🚀
 
@@ -12,7 +14,9 @@ A passionate dev, currently learning frontend web development by transforming my
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### You can find my blogs on ✍️
 
