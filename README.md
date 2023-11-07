@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=TejasShekar&color=brightgreen)
-<!-- [![](https://img.shields.io/github/followers/TejasShekar?label=GitHub%20Followers)](https://github.com/TejasShekar)-->
+[![](https://img.shields.io/github/followers/TejasShekar?label=GitHub%20Followers)](https://github.com/TejasShekar)
 
 # Hey there, I'm Tejas 👋
 A passionate web developer from Bengaluru, India!
@@ -31,4 +31,16 @@ A passionate web developer from Bengaluru, India!
 ## Let's Connect 🔗
 
 [![](https://img.shields.io/twitter/follow/tejas_shekar?style=for-the-badge&logo=twitter)](https://twitter.com/tejas_shekar)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/tejasbc)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasshekar/)
+
+## HacktoberFest 2023 Badges 🚀
+
+<img width=100 height=100 src="https://github.com/TejasShekar/TejasShekar/assets/68545229/831f3a2d-087a-423d-a400-f5dde59c3f74" alt="Appwrite Badge"/>
+
+<img width=100 height=100 src="https://github.com/TejasShekar/TejasShekar/assets/68545229/0da6e0ce-3cd6-4d8a-aa65-fa48d035ef1d" alt="Level 0 Badge"/>
+
+<img width=100 height=100 src="https://github.com/TejasShekar/TejasShekar/assets/68545229/9a54987a-6038-4883-b321-46074edc43bb" alt="DigitalOcean Badge"/>
+
+<img width=100 height=100 src="https://github.com/TejasShekar/TejasShekar/assets/68545229/4ec35fe1-3000-445c-99d1-487064535cac" alt="ILLA Cloud Badge"/>
+
+<img width=100 height=100 src="https://github.com/TejasShekar/TejasShekar/assets/68545229/d256d201-e2d7-49c6-8f63-a4a835bf42ef" alt="Level 1 Badge"/>
